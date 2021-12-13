@@ -1,0 +1,29 @@
+{
+  "id": "5305398d-e3a5-4d15-8df9-aee018e6e44e",
+  "name": "Boyer PennPower Custom Package",
+  "publisher": "Boyer & Associates",
+  "description": "Custom CRM functionality developed for Penn Power by Boyer & Associates",
+  "version": "1.0.0.0",
+  "brief": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://boyerassoc.com",
+  "logo": "boyer.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "8.0"
+}
